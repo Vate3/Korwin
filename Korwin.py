@@ -1,7 +1,7 @@
 import random
 
 print(random.choice([
-    "Proszę zwrócić uwagę, że",
+	"Proszę zwrócić uwagę, że",
 	"I tak mam trzy razy mniej czasu, więc prosze pozwolić mi powiedzieć:",
 	"Państwo się śmieją, ale",
 	"Ja nie potrzebowałem edukacji seksualnej, żeby wiedzieć, że",
